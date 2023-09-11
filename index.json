@@ -38,7 +38,7 @@
   "Name":"Peachs",
   "TypeOfPlant":"Tree",
    "Condition1": "Sunlight",
-  "Condition2": "Water ",
+  "Condition2": "Water 3 Times a Week",
   "Condition3": "Airflow",
   "Condition4": "Spacing",
   "Condition5": "10-10-10;Nitrogen, Phosphorus, and Potassium Fertilized Soil ",
@@ -47,14 +47,18 @@
   "Name":"Cauliflower",
   "TypeOfPlant":"Creeper",
  "Condition1": "Sunlight",
-  "Condition2": "Water ",
+  "Condition2": "Water 3-4 Times a Week",
   "Condition3": "Airflow",
-  "Condition4": "X",
-  "Condition5": "X",
+  "Condition4": "Pest Controll, bugs and insects love Cauliflower",
+  "Condition5": "Pluck/harvest when the Cauliflower is Good White",
 },
-  
-
-
-
-  
+ "Plant7":{
+  "Name":"Oranges",
+  "TypeOfPlant":"Tree",
+ "Condition1": "Sunlight",
+  "Condition2": "Water 1-2 Time a Week",
+  "Condition3": "Airflow",
+  "Condition4": "Soil should be sligthy acidic, pH around 6.0",
+  "Condition5": "Protection from Frost",
 }
+  
