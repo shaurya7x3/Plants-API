@@ -1,64 +1,77 @@
 {
-  "Plant1":{
-  "Name":"Tomato",
-  "TypeOfPlant":"Climber",
-  "Condition1": "Sunlight",
-  "Condition2": "Water 3-4 Times a Week",
-  "Condition3": "Airflow",
-  "Condition4": "High-Phosphorus Fertilized Soil every 4-6 Weeks",
-  "Condition5": "Climbing Support",
-  
-},
-  "Plant2":{
-  "Name":"Rose",
-  "TypeOfPlant":"Shrubs",
-  "Condition1": "Sunlight",
-  "Condition2": "Water 2-3 Times a Week",
-  "Condition3": "Airflow",
-  "Condition4": "High-Nitrogen Fertilized Soil every 6-8 Weeks",
-  "Condition5": "Plant in Ground",
-},
-  "Plant3":{
-  "Name":"Hibiscus",
-  "TypeOfPlant":"Shrubs",
-  "Condition1": "Sunlight",
-  "Condition2": "Water 3-4 Times a Week",
-  "Condition3": "Airflow",
-  "Condition4": "10-10-10;Nitrogen, Phosphorus, and Potassium Fertilized Soil every 4-6 Weeks",
-},
-  "Plant4":{
-  "Name":"Apples",
-  "TypeOfPlant":"Tree",
- "Condition1": "Sunlight",
-  "Condition2": "Water 1-2 Times a Week",
-  "Condition3": "Airflow",
-  "Condition4": "10-10-10;Fertlize Soil every beginning and ending of season",
-},
-  "Plant5":{
-  "Name":"Peachs",
-  "TypeOfPlant":"Tree",
-   "Condition1": "Sunlight",
-  "Condition2": "Water 3 Times a Week",
-  "Condition3": "Airflow",
-  "Condition4": "Spacing",
-  "Condition5": "10-10-10;Nitrogen, Phosphorus, and Potassium Fertilized Soil ",
-},
-  "Plant6":{
-  "Name":"Cauliflower",
-  "TypeOfPlant":"Creeper",
- "Condition1": "Sunlight",
-  "Condition2": "Water 3-4 Times a Week",
-  "Condition3": "Airflow",
-  "Condition4": "Pest Controll, bugs and insects love Cauliflower",
-  "Condition5": "Pluck/harvest when the Cauliflower is Good White",
-},
- "Plant7":{
-  "Name":"Oranges",
-  "TypeOfPlant":"Tree",
- "Condition1": "Sunlight",
-  "Condition2": "Water 1-2 Time a Week",
-  "Condition3": "Airflow",
-  "Condition4": "Soil should be sligthy acidic, pH around 6.0",
-  "Condition5": "Protection from Frost",
+  "Plant1": {
+    "Name": "Tomato",
+    "TypeOfPlant": "Climber",
+    "Conditions": {
+      "Condition1": "Sunlight",
+      "Condition2": "Water 3-4 Times a Week",
+      "Condition3": "Airflow",
+      "Condition4": "High-Phosphorus Fertilized Soil every 4-6 Weeks",
+      "Condition5": "Climbing Support"
+    }
+  },
+  "Plant2": {
+    "Name": "Rose",
+    "TypeOfPlant": "Shrubs",
+    "Conditions": {
+      "Condition1": "Sunlight",
+      "Condition2": "Water 2-3 Times a Week",
+      "Condition3": "Airflow",
+      "Condition4": "High-Nitrogen Fertilized Soil every 6-8 Weeks",
+      "Condition5": "Plant in Ground"
+    }
+  },
+  "Plant3": {
+    "Name": "Hibiscus",
+    "TypeOfPlant": "Shrubs",
+    "Conditions": {
+      "Condition1": "Sunlight",
+      "Condition2": "Water 3-4 Times a Week",
+      "Condition3": "Airflow",
+      "Condition4": "10-10-10; Nitrogen, Phosphorus, and Potassium Fertilized Soil every 4-6 Weeks"
+    }
+  },
+  "Plant4": {
+    "Name": "Apples",
+    "TypeOfPlant": "Tree",
+    "Conditions": {
+      "Condition1": "Sunlight",
+      "Condition2": "Water 1-2 Times a Week",
+      "Condition3": "Airflow",
+      "Condition4": "10-10-10; Fertilize Soil every beginning and end of season"
+    }
+  },
+  "Plant5": {
+    "Name": "Peaches",
+    "TypeOfPlant": "Tree",
+    "Conditions": {
+      "Condition1": "Sunlight",
+      "Condition2": "Water 3 Times a Week",
+      "Condition3": "Airflow",
+      "Condition4": "Spacing",
+      "Condition5": "10-10-10; Nitrogen, Phosphorus, and Potassium Fertilized Soil"
+    }
+  },
+  "Plant6": {
+    "Name": "Cauliflower",
+    "TypeOfPlant": "Creeper",
+    "Conditions": {
+      "Condition1": "Sunlight",
+      "Condition2": "Water 3-4 Times a Week",
+      "Condition3": "Airflow",
+      "Condition4": "Pest Control (bugs and insects love Cauliflower)",
+      "Condition5": "Pluck/harvest when the Cauliflower is Good White"
+    }
+  },
+  "Plant7": {
+    "Name": "Oranges",
+    "TypeOfPlant": "Tree",
+    "Conditions": {
+      "Condition1": "Sunlight",
+      "Condition2": "Water 1-2 Times a Week",
+      "Condition3": "Airflow",
+      "Condition4": "Soil should be slightly acidic, pH around 6.0",
+      "Condition5": "Protection from Frost"
+    }
+  }
 }
-  
