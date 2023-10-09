@@ -1,6 +1,7 @@
 {
   "Plant1": {
     "Name": "Tomato",
+    "Image": "https://contentgrid.homedepot-static.com/hdus/en_US/DTCCOMNEW/Articles/how-to-grow-tomatoes-hero.jpg",
     "TypeOfPlant": "Climber",
     "Conditions": {
       "Condition1": "Sunlight",
