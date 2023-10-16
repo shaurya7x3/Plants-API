@@ -13,17 +13,19 @@
   },
   "Plant2": {
     "Name": "Rose",
+    "Image": "https://images.unsplash.com/photo-1562690868-60bbe7293e94?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cm9zZSUyMGZsb3dlcnxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
     "TypeOfPlant": "Shrubs",
     "Conditions": {
       "Condition1": "Sunlight",
       "Condition2": "Water 2-3 Times a Week",
       "Condition3": "Airflow",
-      "Condition4": "High-Nitrogen Fertilized Soil every 6-8 Weeks",
+      "Condition4": "High-Nitrogen Fertilized Soil every 6-8 Weeks"
       "Condition5": "Plant in Ground"
     }
   },
   "Plant3": {
     "Name": "Hibiscus",
+     "Image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fplantland.co.za%2Fcaring-for-your-hibiscus%2F&psig=AOvVaw30jSfD-elQkAYa9hwT-9k5&ust=1697584137884000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOiL2-3X-4EDFQAAAAAdAAAAABAE",
     "TypeOfPlant": "Shrubs",
     "Conditions": {
       "Condition1": "Sunlight",
@@ -34,6 +36,7 @@
   },
   "Plant4": {
     "Name": "Apples",
+    "Image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fplant%2Fapple-fruit-and-tree&psig=AOvVaw0mdpBPBnl9gjCiWsUq2LyZ&ust=1697584179878000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOD-sIbY-4EDFQAAAAAdAAAAABAJ",
     "TypeOfPlant": "Tree",
     "Conditions": {
       "Condition1": "Sunlight",
@@ -44,6 +47,7 @@
   },
   "Plant5": {
     "Name": "Peaches",
+    "Image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gardeningknowhow.com%2Fedible%2Ffruits%2Fpeach%2Fpeach-tree-care.htm&psig=AOvVaw2HLrZ5P1_Xu8sd_tifSCU2&ust=1697584220678000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCLuZXY-4EDFQAAAAAdAAAAABAF",
     "TypeOfPlant": "Tree",
     "Conditions": {
       "Condition1": "Sunlight",
@@ -55,6 +59,7 @@
   },
   "Plant6": {
     "Name": "Cauliflower",
+    "Image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgardenerspath.com%2Fplants%2Fvegetables%2Fhow-to-grow-cauliflower-a-challenging-cold-weather-crop%2F&psig=AOvVaw1JqvlEqQNQCxbUC7fa4Ak_&ust=1697584276014000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJj_kK_Y-4EDFQAAAAAdAAAAABAE",
     "TypeOfPlant": "Creeper",
     "Conditions": {
       "Condition1": "Sunlight",
@@ -66,6 +71,7 @@
   },
   "Plant7": {
     "Name": "Oranges",
+    "Image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbackyardcitrustrees.com%2Fproducts%2Fpageorange&psig=AOvVaw2BCcciuNsDdxbBY25H39Vt&ust=1697584300131000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJiv2rvY-4EDFQAAAAAdAAAAABAE",
     "TypeOfPlant": "Tree",
     "Conditions": {
       "Condition1": "Sunlight",
