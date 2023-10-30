@@ -19,13 +19,13 @@
       "Condition1": "Sunlight",
       "Condition2": "Water 2-3 Times a Week",
       "Condition3": "Airflow",
-      "Condition4": "High-Nitrogen Fertilized Soil every 6-8 Weeks"
+      "Condition4": "High-Nitrogen Fertilized Soil every 6-8 Weeks",
       "Condition5": "Plant in Ground"
     }
   },
   "Plant3": {
     "Name": "Hibiscus",
-     "Image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fplantland.co.za%2Fcaring-for-your-hibiscus%2F&psig=AOvVaw30jSfD-elQkAYa9hwT-9k5&ust=1697584137884000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOiL2-3X-4EDFQAAAAAdAAAAABAE",
+    "Image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fplantland.co.za%2Fcaring-for-your-hibiscus%2F&psig=AOvVaw30jSfD-elQkAYa9hwT-9k5&ust=1697584137884000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOiL2-3X-4EDFQAAAAAdAAAAABAE",
     "TypeOfPlant": "Shrubs",
     "Conditions": {
       "Condition1": "Sunlight",
