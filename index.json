@@ -47,7 +47,7 @@
   },
   "Plant5": {
     "Name": "Peaches",
-    "Image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.brighterblooms.com%2Fproducts%2Fbonanza-peach&psig=AOvVaw0ee0Cy7ZGMR0f3crk92tpY&ust=1699402635837000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKi-1qXOsIIDFQAAAAAdAAAAABAE",
+    "Image": "https://www.plantmegreen.com/cdn/shop/articles/PlantMeGreen-126972-Peach-Trees-Grow-blogbanner1_520x500_5ff65443-caf9-4630-9d49-e931f9bd4f30_520x.jpg?v=1638540294",
     "TypeOfPlant": "Tree",
     "Conditions": {
       "Condition1": "Sunlight",
@@ -71,7 +71,7 @@
   },
   "Plant7": {
     "Name": "Oranges",
-    "Image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.starkbros.com%2Fproducts%2Ffruit-trees%2Fcitrus-trees%2Fvalencia-orange&psig=AOvVaw3RjgOH6oqOwV2yyhhqGeyg&ust=1699402953622000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJCE2dLPsIIDFQAAAAAdAAAAABAI",
+    "Image": "https://s3g2u3k4.rocketcdn.me/wp-content/uploads/sites/4/2022/09/orange-tree.jpg",
     "TypeOfPlant": "Tree",
     "Conditions": {
       "Condition1": "Sunlight",
