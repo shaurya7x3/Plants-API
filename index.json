@@ -79,6 +79,28 @@
       "Condition3": "Airflow",
       "Condition4": "Soil should be slightly acidic, pH around 6.0",
       "Condition5": "Protection from Frost"
-    }
+    },
+    "Plant8": {
+    "Name": "Strawberry",
+    "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyEptOsIg6cJhV_YVUDoYQPLTdis-CceHNTEzWYUZy8nlgeJjtgv_ZtnaHtcjkHEhYj04&usqp=CAU",
+    "TypeOfPlant": "Climber",
+    "Conditions": {
+      "Condition1": "Sunlight",
+      "Condition2": "Water 1-2 inches each day",
+      "Condition3": "Airflow",
+      "Condition4": "Well-drained loam soil with a pH above 6.0",
+      "Condition5": "Protection from Frost/Freeze"
+    },
+    "Plant9": {
+    "Name": "Grapes",
+    "Image": "https://www.evineyardapp.com/blog/wp-content/uploads/2017/05/wine-berries-694198_1920.jpg",
+    "TypeOfPlant": "Tree",
+    "Conditions": {
+      "Condition1": "Sunlight",
+      "Condition2": " 1 Inch of water per week",
+      "Condition3": "Airflow",
+      "Condition4": "Well-drained deep soil availability",
+      "Condition5": "Not having the soil containing too much nitrogen/fertilizer"
+    },
   }
 }
