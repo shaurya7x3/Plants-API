@@ -103,6 +103,6 @@
       "Condition3": "Airflow",
       "Condition4": "Well-drained deep soil availability",
       "Condition5": "Not having the soil containing too much nitrogen/fertilizer"
-    },
+    }
   }
 }
