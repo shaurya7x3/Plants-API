@@ -79,6 +79,7 @@
       "Condition3": "Airflow",
       "Condition4": "Soil should be slightly acidic, pH around 6.0",
       "Condition5": "Protection from Frost"
+    }
     },
     "Plant8": {
     "Name": "Strawberry",
@@ -90,6 +91,7 @@
       "Condition3": "Airflow",
       "Condition4": "Well-drained loam soil with a pH above 6.0",
       "Condition5": "Protection from Frost/Freeze"
+    }
     },
     "Plant9": {
     "Name": "Grapes",
