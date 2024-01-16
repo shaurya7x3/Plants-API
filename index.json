@@ -80,8 +80,8 @@
       "Condition4": "Soil should be slightly acidic, pH around 6.0",
       "Condition5": "Protection from Frost"
     }
-    },
-    "Plant8": {
+  },
+  "Plant8": {
     "Name": "Strawberry",
     "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyEptOsIg6cJhV_YVUDoYQPLTdis-CceHNTEzWYUZy8nlgeJjtgv_ZtnaHtcjkHEhYj04&usqp=CAU",
     "TypeOfPlant": "Climber",
@@ -92,8 +92,8 @@
       "Condition4": "Well-drained loam soil with a pH above 6.0",
       "Condition5": "Protection from Frost/Freeze"
     }
-    },
-    "Plant9": {
+  },
+  "Plant9": {
     "Name": "Grapes",
     "Image": "https://www.evineyardapp.com/blog/wp-content/uploads/2017/05/wine-berries-694198_1920.jpg",
     "TypeOfPlant": "Tree",
@@ -103,8 +103,9 @@
       "Condition3": "Airflow",
       "Condition4": "Well-drained deep soil availability",
       "Condition5": "Not having the soil containing too much nitrogen/fertilizer"
-    },
-    "Plant10": {
+    }
+  },
+  "Plant10": {
     "Name": "Broccoli",
     "Image": "https://cdn.shopify.com/s/files/1/0573/3993/6868/t/6/assets/cool-weather-vegeatble-broccoli-1676412285617.jpg?v=1676412286",
     "TypeOfPlant": "Creeper",
@@ -112,10 +113,11 @@
       "Condition1": "Sunlight",
       "Condition2": "1 to 1.5 inches of water per week",
       "Condition3": "Airflow",
-      "Condition4": "Well drained yet moisture-retentive, fertile soil with pH of 6 to 7",
+      "Condition4": "Well-drained yet moisture-retentive, fertile soil with pH of 6 to 7",
       "Condition5": "Not having lots of moisture in soil"
-    },
-    "Plant11": {
+    }
+  },
+  "Plant11": {
     "Name": "Aloe Vera",
     "Image": "https://gardenerspath.com/wp-content/uploads/2021/01/Aloe-Vera-Plant-Growing-Indoors-in-a-Pot.jpg",
     "TypeOfPlant": "Shrub",
@@ -124,9 +126,10 @@
       "Condition2": "Water the plant 1 time per week",
       "Condition3": "Airflow",
       "Condition4": "Well-draining, loamy, sandy soil mix, with a neutral pH",
-      "Condition5": "Having less mositure as Aloe Vera is a Desert plant"
-    },
-       "Plant12": {
+      "Condition5": "Having less moisture as Aloe Vera is a Desert plant"
+    }
+  },
+  "Plant12": {
     "Name": "Money Tree",
     "Image": "https://www.lulasgarden.com/cdn/shop/files/MONEYTREE-WELCOME-1MAIN_720x.jpg?v=1692981915",
     "TypeOfPlant": "Tree",
@@ -134,19 +137,20 @@
       "Condition1": "Sunlight",
       "Condition2": "Water 1-2 times per week",
       "Condition3": "Airflow",
-      "Condition4": "Sandy, peat-moss-based soi, and pH of 6.0-7.5",
-      "Condition5": "Having lowlighting/sunligh, since its more of an indoor plant"
-    },
-         "Plant13": {
+      "Condition4": "Sandy, peat-moss-based soil, and pH of 6.0-7.5",
+      "Condition5": "Having low lighting/sunlight, since it's more of an indoor plant"
+    }
+  },
+  "Plant13": {
     "Name": "Tulips",
     "Image": "https://www.gardeners.com/globalassets/articles/gardening/hero_thumbnail/7141-purple-tulips.jpg?$staticlink$",
     "TypeOfPlant": "Herbs",
     "Conditions": {
       "Condition1": "Sunlight",
-      "Condition2": "Water once per week week for the first month after planting, then leave the plants alone until springtime",
+      "Condition2": "Water once per week for the first month after planting, then leave the plants alone until springtime",
       "Condition3": "Airflow",
       "Condition4": "Well-drained soil and grow best in soil with a pH of 6.0-6.5",
-      "Condition5": "Overwatering as this plant doesn't require extra water from the carrier"
+      "Condition5": "Avoid overwatering as this plant doesn't require extra water from the carrier"
     }
   }
 }
